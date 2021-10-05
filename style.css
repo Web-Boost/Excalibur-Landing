@@ -97,6 +97,12 @@ body {
     width: 250px;
   }
 
+  section#inicio-odonto #captura-odonto a div {
+    margin-top: 50px;
+    font-size: 1.2em;
+    font-weight: 300;
+  }
+
   hr {
     width: 50%;
     opacity: 0.3;
